@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='create-fusion-app',
-    version='0.1.16',
+    version='0.1.18',
     packages=find_packages(),
     install_requires=[
     ],
